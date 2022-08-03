@@ -29,7 +29,6 @@ This project relies on [NFT Contracts](https://github.com/silviopaganini/nft-con
 - Solidity
 - React
 - Truffle / Ganache
-- Storybook
 - openZeppelin
 - Metamask (web3)
 - Opensea.io
