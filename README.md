@@ -4,7 +4,7 @@ Prototype of a NFT Marketplace based on openZeppelin abstract upgradeable ERC721
 
 ## ⚙️ Dependencies
 
-This project relies on [NFT Contracts](https://github.com/silviopaganini/nft-contracts) package and [NFT Lambda Service](https://github.com/silviopaganini/nft-market-service) for serving the metadata
+This project relies on [NFT Contracts] package and [NFT Lambda Service] for serving the metadata
 
 ## 🔬 Functionalities
 
